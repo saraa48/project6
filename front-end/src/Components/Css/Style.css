@@ -1,0 +1,88 @@
+.image-Menu{background-image: url("https://i.pinimg.com/originals/0e/77/62/0e7762e0674ea9e93e124c07f1f997a6.jpg");
+  background-repeat: no-repeat, repeat;
+background-position: center;
+background-size: cover;
+width: 100%;
+height: 100%;
+}
+.image-Menu {
+  display: flex;
+  justify-content: space-around;
+
+  margin-top: 30px;
+  transition: all 0, 4s ease-in-out;}
+  
+
+/* background-image: url("https://images.unsplash.com/photo-1495195134817-aeb325a55b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80");
+   background-repeat: no-repeat */
+
+
+.nos-plats {
+  width: 136px;
+  border-radius: 30%;
+  margin-bottom: 10px;
+  margin-top: 18px;
+  margin-left: 95px;
+  margin-left: center;
+  box-shadow: -2px 8px 10px;}
+  .Team{  font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    color: #fff ;
+    text-align: center;
+    font-style: italic;}
+    .make{font-family: "Times New Roman", Times, serif;
+      font-size: 25px;
+      color: #fff ;
+      text-align: center;
+      font-style: italic;}
+      .restau{
+        width: 556px;
+      }
+      .my-button{
+        width: 168px;
+        background-color: #F8C471
+      }
+.our-Menu {
+  width: 310px !important;
+    height: 337px !important;
+    box-shadow: -1px 3px 10px 5px rgba(0, 0, 0, 75);
+    cursor: pointer;
+    background-size: cover;
+    border: none;
+  border: solid #95A5A6 3px !important;
+  border-radius: 10px;
+  text-align: center;
+}
+.plat{font-family: "Times New Roman", Times, serif;
+  font-size: 28px ;
+  color: #BA4A00  ;
+  font-style: italic ;
+text-align: center;
+margin-left: -43px
+}
+.description {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 10px;
+  font-style: italic;
+  color: black  
+}
+h2{font-family: "Times New Roman", Times, serif;
+  font-style: italic;}
+h1 {
+
+  text-align: center;
+  font-weight: 10px;
+  font-size: 30px;
+  font-variant: small-caps;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+}
+.modifier {
+  margin-left: 50px;
+}
+.addButton {
+  margin-left: 400px;
+  margin-top: 90px;
+}

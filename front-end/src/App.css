@@ -1,0 +1,10 @@
+@import "~antd/dist/antd.css";
+
+.cards-Menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.App {
+  text-align: center;
+}
